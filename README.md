@@ -1,6 +1,6 @@
 # CAI2_DAT1_S2---Data-Analysis---Final_Project
 
-## Diploma: Data Analysis (DEPI)
+## Diploma: Google Data Analysis (DEPI)
 
 ### **Project Overview**
 This project is part of the final assessment for the Data Analysis Diploma at DEPI. The goal is to analyze a supply chain dataset provided as a `.csv` file. The project is divided into four main phases, covering data preprocessing, analysis, forecasting, and visualization.
