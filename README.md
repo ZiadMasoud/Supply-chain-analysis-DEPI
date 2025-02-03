@@ -73,7 +73,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/yourusername/CAI2_DAT1_S2---Data-Analysis---Final_Project.git
 cd CAI2_DAT1_S2---Data-Analysis---Final_Project
-pip install -r requirements.txt
 ```
 ## Usage
 - **Data Cleaning**: Open notebooks/01_data_preprocessing.ipynb in Google Colab to run the data cleaning process.
