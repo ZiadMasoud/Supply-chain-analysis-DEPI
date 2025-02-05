@@ -65,8 +65,7 @@ This project is part of the final assessment for the Google Data Analysis Diplom
 ## Tools and Technologies
 - **Google Colab** for Python scripting.
 - **MySQL Workbench** for database management.
-- **Tableau Public** for creating dashboards.
-- **Python Libraries:** pandas, matplotlib, seaborn, scikit-learn, mysql-connector-python.
+- **Python Libraries:** pandas, matplotlib.
 
 ## Installation and Setup
 Clone the repository and install dependencies:
