@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Latest-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Latest-yellow)
+
 
 ## Project Overview 🚀
 
