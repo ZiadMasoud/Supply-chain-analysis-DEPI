@@ -1,0 +1,31 @@
+### Description of the Data ####
+
+The provided dataset, `supply_chain_data.csv`, contains detailed information about various products in a supply chain, including their types, stock-keeping units (SKUs), pricing, availability, sales, revenue, customer demographics, stock levels, lead times, order quantities, shipping details, supplier information, manufacturing details, and quality inspection results. The dataset is structured with 100 rows (products) and 24 columns (attributes) for each product.
+
+#### Key Columns and Their Descriptions #####
+
+1. Product type: The category of the product (e.g., haircare, skincare, cosmetics).
+2. SKU: The unique identifier for each product.
+3. Price: The price of the product.
+4. Availability: The current stock availability of the product.
+5. Number of products sold: The quantity of the product sold.
+6. Revenue generated: The total revenue generated from the product.
+7. Customer demographics: The gender or demographic group of the customers (e.g., Male, Female, Non-binary, Unknown).
+8. Stock levels: The current stock levels of the product.
+9. Lead times: The time taken from placing an order to receiving it.
+10. Order quantities: The quantity of products ordered.
+11. Shipping times: The time taken to ship the product.
+12. Shipping carriers: The carrier used for shipping (e.g., Carrier A, Carrier B, Carrier C).
+13. Shipping costs: The cost associated with shipping the product.
+14. Supplier name: The name of the supplier providing the product.
+15. Location: The location of the supplier (e.g., Mumbai, Delhi, Bangalore, Chennai, Kolkata).
+16. Lead time: The time taken by the supplier to deliver the product.
+17. Production volumes: The volume of products produced.
+18. Manufacturing lead time: The time taken to manufacture the product.
+19. Manufacturing costs: The cost associated with manufacturing the product.
+20. Inspection results: The result of quality inspection (e.g., Pass, Fail, Pending).
+21. Defect rates: The percentage of defective products.
+22. Transportation modes: The mode of transportation used (e.g., Road, Air, Sea, Rail).
+23. Routes: The route taken for transportation (e.g., Route A, Route B, Route C).
+24. Costs: The total costs associated with the product (likely transportation or logistics costs).
+
