@@ -70,8 +70,7 @@ This project is part of the final assessment for the Google Data Analysis Diplom
 ## Installation and Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/CAI2_DAT1_S2---Data-Analysis---Final_Project.git
-cd CAI2_DAT1_S2---Data-Analysis---Final_Project
+git clone https://github.com/ZiadMasoud/Supply-chain-analysis-DEPI.git
 ```
 ## Usage
 - **Data Cleaning**: Open notebooks/01_data_preprocessing.ipynb in Google Colab to run the data cleaning process.
