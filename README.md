@@ -135,21 +135,10 @@ git clone https://github.com/ZiadMasoud/Supply-chain-analysis-DEPI.git
 cd Supply-chain-analysis-DEPI
 ```
 
-2. Create a Python virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-```
-
-3. Install required Python packages:
+2. Install required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
-
-4. Database Setup:
-- Install MySQL Workbench
-- Create a new database named 'supply_chain_db'
-- Import schema using provided SQL scripts in `SQL_Scripts/Data_model.sql`
 
 ## Usage Guide 📖
 
